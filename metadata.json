@@ -1,0 +1,6 @@
+{
+  "name": "Portal Sekolah Unggul & SIADIK",
+  "description": "Aplikasi web sekolah modern terpadu dengan landing page publik interaktif serta 3 dashboard khusus untuk Kepala Sekolah, Guru, dan Orang Tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
